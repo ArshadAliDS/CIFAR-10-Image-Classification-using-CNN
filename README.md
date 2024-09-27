@@ -90,5 +90,3 @@ After training the model for 10 epochs, we generate and display the accuracy and
 
 ## Prediction Results
 The model is also evaluated on the test dataset, and predictions are made on individual images. The predicted label is compared with the true label to visually verify the model’s performance.
-
-
